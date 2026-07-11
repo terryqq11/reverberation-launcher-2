@@ -171,16 +171,6 @@
           }
         },
         {
-          "id": "dev.isxander:controlify:3.0.1+lts+1.21.8-fabric@jar",
-          "name": "Controlify",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8020414,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/controlify-3.0.1+lts+1.21.8-fabric.jar",
-            "MD5": "ecb34560ec14555363b2c66951089719"
-          }
-        },
-        {
           "id": "dev.kostromdan.mods:crash_assistant:1.11.9@jar",
           "name": "Crash Assistant",
           "type": "FabricMod",
