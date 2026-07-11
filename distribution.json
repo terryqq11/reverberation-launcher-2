@@ -171,13 +171,13 @@
           }
         },
         {
-          "id": "dev.isxander:controlify:3.0.0+lts+1.21.8-fabric@jar",
+          "id": "dev.isxander:controlify:3.0.1+lts+1.21.8-fabric@jar",
           "name": "Controlify",
           "type": "FabricMod",
           "artifact": {
-            "size": 8020419,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/controlify-3.0.0+lts+1.21.8-fabric.jar",
-            "MD5": "08aa7fae3424c321a3bd71c70e915005"
+            "size": 8020414,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/controlify-3.0.1+lts+1.21.8-fabric.jar",
+            "MD5": "ecb34560ec14555363b2c66951089719"
           }
         },
         {
