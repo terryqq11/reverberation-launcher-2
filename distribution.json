@@ -121,12 +121,12 @@
           }
         },
         {
-          "id": "generated.fabricmod:bettergrassify:1.8.6+fabric.1.21.8@jar",
+          "id": "generated.fabricmod:bettergrassify:1.8.6+fabric.1.21.10@jar",
           "name": "BetterGrassify",
           "type": "FabricMod",
           "artifact": {
             "size": 87770,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/BetterGrassify-1.8.6+fabric.1.21.8.jar",
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/BetterGrassify-1.8.6+fabric.1.21.10.jar",
             "MD5": "f124a859d39796ca5447d4f2c7fe0203"
           }
         },
@@ -141,43 +141,33 @@
           }
         },
         {
-          "id": "me.cael:capes:1.5.9+1.21.9@jar",
+          "id": "me.cael:capes:1.5.9+1.21.8@jar",
           "name": "Capes",
           "type": "FabricMod",
           "artifact": {
-            "size": 71856,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/capes-1.5.9+1.21.9-fabric.jar",
-            "MD5": "7b5da3df45d2bb09dc84eb2155536f85"
+            "size": 73000,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/capes-1.5.9+1.21.8-fabric.jar",
+            "MD5": "fa2cb6f75e4bdc4ed8d32943e73c7d66"
           }
         },
         {
-          "id": "me.shedaniel.autoconfig.example:cloth-config:20.0.149@jar",
-          "name": "Cloth Config v20",
+          "id": "me.shedaniel.autoconfig.example:cloth-config:19.0.147@jar",
+          "name": "Cloth Config v19",
           "type": "FabricMod",
           "artifact": {
-            "size": 1150288,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/cloth-config-20.0.149-fabric.jar",
-            "MD5": "97d2780c55c1b8d729811c538634b8cd"
+            "size": 1149126,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/cloth-config-19.0.147-fabric.jar",
+            "MD5": "374787e705220edb15af113964ce96d2"
           }
         },
         {
-          "id": "io.github.thebossmagnus.mods:config_manager:1.1.1@jar",
-          "name": "Config Manager",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 87690,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ConfigManager-fabric-1.21.x-1.1.1.jar",
-            "MD5": "e1476b96f045d43125171793f05213b8"
-          }
-        },
-        {
-          "id": "me.pepperbell:continuity:3.0.1-beta.2+1.21.8@jar",
+          "id": "me.pepperbell:continuity:3.0.1-beta.1+1.21.6@jar",
           "name": "Continuity",
           "type": "FabricMod",
           "artifact": {
-            "size": 994514,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/continuity-3.0.1-beta.2+1.21.8.jar",
-            "MD5": "8b3d04df15d3661238d0174e3d50b0df"
+            "size": 994756,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/continuity-3.0.1-beta.1+1.21.6.jar",
+            "MD5": "57884176e646e10756b43b6ff0bdd4d9"
           }
         },
         {
@@ -185,9 +175,9 @@
           "name": "Controlify",
           "type": "FabricMod",
           "artifact": {
-            "size": 8018567,
+            "size": 8020419,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/controlify-3.0.0+lts+1.21.8-fabric.jar",
-            "MD5": "2b6acefc2585f167172ba1d8f1acb029"
+            "MD5": "08aa7fae3424c321a3bd71c70e915005"
           }
         },
         {
@@ -211,23 +201,23 @@
           }
         },
         {
-          "id": "dev.isxander:debugify:1.21.8+1.1@jar",
+          "id": "dev.isxander:debugify:1.21.8+1.0@jar",
           "name": "Debugify",
           "type": "FabricMod",
           "artifact": {
-            "size": 383013,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/debugify-1.21.8+1.1.jar",
-            "MD5": "1d2953bdae84ca6693889681dd258117"
+            "size": 1009710,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/debugify-1.21.8+1.0.jar",
+            "MD5": "ca4360f1b1526ff6578fe957735a95b3"
           }
         },
         {
-          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.11.6@jar",
+          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.11.4@jar",
           "name": "Dynamic FPS",
           "type": "FabricMod",
           "artifact": {
-            "size": 219705,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/dynamic-fps-3.11.6+minecraft-1.21.9-fabric.jar",
-            "MD5": "0dd917adb4cbf471e6dd4b3e1c78b6c8"
+            "size": 218867,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/dynamic-fps-3.11.4+minecraft-1.21.6-fabric.jar",
+            "MD5": "c923a1b56cbe3575b6f1eec2cd5e7f12"
           }
         },
         {
@@ -245,9 +235,9 @@
           "name": "Entity Model Features",
           "type": "FabricMod",
           "artifact": {
-            "size": 580138,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/entity_model_features-3.2.4-1.21.9-fabric.jar",
-            "MD5": "f42b15bd9d9faa920fdcf93119e713da"
+            "size": 574983,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/entity_model_features-3.2.4-1.21.6-fabric.jar",
+            "MD5": "4a2149a5c6fe1be7bec264a8243e153d"
           }
         },
         {
@@ -255,9 +245,9 @@
           "name": "Entity Texture Features",
           "type": "FabricMod",
           "artifact": {
-            "size": 744587,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/entity_texture_features_1.21.9-fabric-7.1.jar",
-            "MD5": "38168c89c5d0b9ffcac759f44fb3a2c1"
+            "size": 745948,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/entity_texture_features_1.21.6-fabric-7.1.jar",
+            "MD5": "866d8021dd32d781ae55ecf6fe8bbed1"
           }
         },
         {
@@ -265,19 +255,19 @@
           "name": "EntityCulling",
           "type": "FabricMod",
           "artifact": {
-            "size": 1604053,
+            "size": 1595374,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/entityculling-fabric-1.10.2-mc1.21.8.jar",
-            "MD5": "1478fd40a28e87c601e7da97c59fd0fb"
+            "MD5": "40d93a553b8303d431dc7a32206a185b"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.138.4+1.21.8@jar",
+          "id": "generated.fabricmod:fabric-api:0.136.1+1.21.8@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2375888,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/fabric-api-0.138.4+1.21.8.jar",
-            "MD5": "c9ebf1b300d813310d18115a7cc03f99"
+            "size": 2269700,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/fabric-api-0.136.1+1.21.8.jar",
+            "MD5": "85d76d57a7b5bb7043ea815133d2f6ba"
           }
         },
         {
@@ -291,63 +281,63 @@
           }
         },
         {
-          "id": "me.ramidzkh:fabrishot:1.16.3@jar",
+          "id": "me.ramidzkh:fabrishot:1.16.2@jar",
           "name": "Fabrishot",
           "type": "FabricMod",
           "artifact": {
-            "size": 49787,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/fabrishot-1.16.3.jar",
-            "MD5": "2e9a1fe9ab75e3e7cd70b2ff3720a164"
+            "size": 50264,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/fabrishot-1.16.2.jar",
+            "MD5": "7511d9b4217e7ee89f547866f98f5d11"
           }
         },
         {
-          "id": "me.contaria:fastquit:3.1.2+mc1.21.8@jar",
+          "id": "me.contaria:fastquit:3.1.1+mc1.21.6@jar",
           "name": "FastQuit",
           "type": "FabricMod",
           "artifact": {
-            "size": 61209,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/fastquit-3.1.2+mc1.21.8.jar",
-            "MD5": "e3e04732fce05ac785cd43866d9c044e"
+            "size": 62237,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/fastquit-3.1.1+mc1.21.6.jar",
+            "MD5": "23c81cc79a141e4213d9762db4584976"
           }
         },
         {
-          "id": "generated.fabricmod:ferritecore:8.1.0@jar",
+          "id": "generated.fabricmod:ferritecore:8.0.4@jar",
           "name": "FerriteCore",
           "type": "FabricMod",
           "artifact": {
-            "size": 82450,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ferritecore-8.1.0-fabric.jar",
-            "MD5": "366d5ccfdcbf6b30290e8c4baf6416f1"
+            "size": 82475,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ferritecore-8.0.4-fabric.jar",
+            "MD5": "16a510b25f8c974384f1a3a2d0358cdf"
           }
         },
         {
-          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.10.1@jar",
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.8.2@jar",
           "name": "Forge Config API Port",
           "type": "FabricMod",
           "artifact": {
-            "size": 615376,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ForgeConfigAPIPort-v21.10.1+mc1.21.8-Fabric.jar",
-            "MD5": "4804d13c574546ff0acb7b3f870340d1"
+            "size": 635645,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric.jar",
+            "MD5": "70a44acea420b7672a5b66e6639e16b5"
           }
         },
         {
-          "id": "generated.fabricmod:immediatelyfast:1.13.5+1.21.8@jar",
+          "id": "generated.fabricmod:immediatelyfast:1.12.5+1.21.8@jar",
           "name": "ImmediatelyFast",
           "type": "FabricMod",
           "artifact": {
-            "size": 310340,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ImmediatelyFast-Fabric-1.13.5+1.21.8.jar",
-            "MD5": "2e773ea7014eb9d10fb049f2019a1452"
+            "size": 306770,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ImmediatelyFast-Fabric-1.12.5+1.21.8.jar",
+            "MD5": "b87781ed5840add0d80fc68c3a1731f0"
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.9.7+mc1.21.8@jar",
+          "id": "generated.fabricmod:iris:1.9.6+mc1.21.8@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2717422,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/iris-fabric-1.9.7+mc1.21.8.jar",
-            "MD5": "7d2bf05890132d821ae1c09458aac654"
+            "size": 2742813,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/iris-fabric-1.9.6+mc1.21.8.jar",
+            "MD5": "64fdd8ffe47175923a1cfb6b0617867d"
           }
         },
         {
@@ -355,9 +345,9 @@
           "name": "LambDynamicLights",
           "type": "FabricMod",
           "artifact": {
-            "size": 2161643,
+            "size": 2108588,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/lambdynamiclights-4.8.7+1.21.8.jar",
-            "MD5": "7a300ab3ee21b11f2057af4da118e66b"
+            "MD5": "1d2868dec62019d54dea715634f463df"
           }
         },
         {
@@ -365,19 +355,19 @@
           "name": "Language Reload",
           "type": "FabricMod",
           "artifact": {
-            "size": 75760,
+            "size": 74731,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/language-reload-1.7.6+1.21.8.jar",
-            "MD5": "5017b6225d4f3424d867c7c550e09f86"
+            "MD5": "d877c3c883c4be611620a4f548cf416c"
           }
         },
         {
-          "id": "net.caffeinemc.mods:lithium:0.20.1+mc1.21.8@jar",
+          "id": "net.caffeinemc.mods:lithium:0.18.1+mc1.21.8@jar",
           "name": "Lithium",
           "type": "FabricMod",
           "artifact": {
-            "size": 835455,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/lithium-fabric-0.20.1+mc1.21.8.jar",
-            "MD5": "33ccbe4494ec33799c8a16d747071cd4"
+            "size": 839866,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/lithium-fabric-0.18.1+mc1.21.8.jar",
+            "MD5": "7852499e964ca766501bd2c6f5a14f22"
           }
         },
         {
@@ -401,23 +391,23 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:modelfix:1.21.8-1.12@jar",
+          "id": "net.mehvahdjukaar:modelfix:1.21.5-1.12@jar",
           "name": "Model Gap Fix",
           "type": "FabricMod",
           "artifact": {
-            "size": 66424,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/modelfix-1.21.8-1.12-fabric.jar",
-            "MD5": "de02af67f913040557fb7dae833a2c16"
+            "size": 66419,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/modelfix-1.21.5-1.12-fabric.jar",
+            "MD5": "378424851f639ebca1d45e87eba0223d"
           }
         },
         {
-          "id": "com.terraformersmc:modmenu:16.0.1@jar",
+          "id": "com.terraformersmc:modmenu:15.0.2@jar",
           "name": "Mod Menu",
           "type": "FabricMod",
           "artifact": {
-            "size": 1083558,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/modmenu-16.0.1.jar",
-            "MD5": "e38e96e083862ceb1c530e992e4013ef"
+            "size": 1087256,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/modmenu-15.0.2.jar",
+            "MD5": "0f70ab88677a7404dbc95798604c7833"
           }
         },
         {
@@ -431,43 +421,43 @@
           }
         },
         {
-          "id": "ca.fxco:moreculling:1.5.0-beta.2@jar",
+          "id": "ca.fxco:moreculling:1.4.0-beta.2@jar",
           "name": "More Culling",
           "type": "FabricMod",
           "artifact": {
-            "size": 349186,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/moreculling-fabric-1.21.9-1.5.0-beta.2.jar",
-            "MD5": "ffa02716c7b44aca966f5732634bb027"
+            "size": 347182,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/moreculling-fabric-1.21.8-1.4.0-beta.2.jar",
+            "MD5": "87f9710fa1b16968eeb834451400af9e"
           }
         },
         {
-          "id": "com.aizistral:nochatreports:1.21.8-v2.16.0@jar",
+          "id": "com.aizistral:nochatreports:1.21.8-v2.15.0@jar",
           "name": "No Chat Reports",
           "type": "FabricMod",
           "artifact": {
-            "size": 249687,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/NoChatReports-FABRIC-1.21.8-v2.16.0.jar",
-            "MD5": "bde05c509c547c9214eb4c50e1387086"
+            "size": 249165,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/NoChatReports-FABRIC-1.21.8-v2.15.0.jar",
+            "MD5": "7e4a6fe6a6a0c30934c543d400a0a0ff"
           }
         },
         {
-          "id": "opekope2.optigui:optigui:2.3.0-beta.10+1.21.9@jar",
+          "id": "opekope2.optigui:optigui:2.3.0-beta.9+1.21.6@jar",
           "name": "OptiGUI",
           "type": "FabricMod",
           "artifact": {
-            "size": 611547,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/optigui-2.3.0-beta.10+1.21.9.jar",
-            "MD5": "3bbf99c017c23545a723bb87eabc4cb9"
+            "size": 611186,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/optigui-2.3.0-beta.9+1.21.6.jar",
+            "MD5": "86b20928ac9a31a73803761f8c792c8a"
           }
         },
         {
-          "id": "de.dafuqs:paginatedadvancements:2.8.0+1.21.9@jar",
+          "id": "de.dafuqs:paginatedadvancements:2.7.0+1.21.8@jar",
           "name": "Paginated Advancements",
           "type": "FabricMod",
           "artifact": {
-            "size": 80592,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/paginatedadvancements-2.8.0+1.21.9.jar",
-            "MD5": "480208d544580cec42f7e76f0cc1a4de"
+            "size": 80506,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/paginatedadvancements-2.7.0+1.21.8.jar",
+            "MD5": "4ca947b0b61659dea0ff523201e86f43"
           }
         },
         {
@@ -475,29 +465,29 @@
           "name": "Puzzle",
           "type": "FabricMod",
           "artifact": {
-            "size": 145569,
+            "size": 146395,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/puzzle-fabric-2.3.0+1.21.8.jar",
-            "MD5": "15f8aa5dc0d5c96d8f68c79718cdd30d"
+            "MD5": "bf4bcda768d2106f066f07ab7fe5fc07"
           }
         },
         {
-          "id": "generated.fabricmod:reeses-sodium-options:1.8.6+mc1.21.8@jar",
+          "id": "generated.fabricmod:reeses-sodium-options:1.8.4+mc1.21.6@jar",
           "name": "Reese's Sodium Options",
           "type": "FabricMod",
           "artifact": {
-            "size": 82444,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/reeses-sodium-options-fabric-1.8.6+mc1.21.8.jar",
-            "MD5": "6d7836317856c34562da177d09ad69b3"
+            "size": 81061,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar",
+            "MD5": "6256d2626c3a7252c681bdd7c992db46"
           }
         },
         {
-          "id": "org.redlance.dima_dencep.mods:rrls:5.1.12+mc1.21.9-fabric@jar",
+          "id": "org.redlance.dima_dencep.mods:rrls:5.1.10+mc1.21.8-fabric@jar",
           "name": "Remove Reloading Screen",
           "type": "FabricMod",
           "artifact": {
-            "size": 198762,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/rrls-5.1.12+mc1.21.9-fabric.jar",
-            "MD5": "84b859568cc57fd09d370fa5895f43de"
+            "size": 196558,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/rrls-5.1.10+mc1.21.8-fabric.jar",
+            "MD5": "a506295b375f9cbaf4d6b9d93f89bef8"
           }
         },
         {
@@ -505,19 +495,19 @@
           "name": "Skyboxify",
           "type": "FabricMod",
           "artifact": {
-            "size": 295164,
+            "size": 295039,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/skyboxify-2.8+1.21.8-fabric.jar",
-            "MD5": "e53973488c6bbe87ac324a0cf9f2d856"
+            "MD5": "3bbeb9a65b16d452e595f5cf76b84c81"
           }
         },
         {
-          "id": "generated.fabricmod:sodium-extra:0.7.1+mc1.21.8@jar",
+          "id": "generated.fabricmod:sodium-extra:0.7.0+mc1.21.8@jar",
           "name": "Sodium Extra",
           "type": "FabricMod",
           "artifact": {
-            "size": 417279,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/sodium-extra-fabric-0.7.1+mc1.21.8.jar",
-            "MD5": "5ddcc11eeaa78acd8f00e1c263186b56"
+            "size": 420199,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/sodium-extra-fabric-0.7.0+mc1.21.8.jar",
+            "MD5": "b5ac5b552279a9adb2d99cbfe7d1edef"
           }
         },
         {
@@ -525,39 +515,39 @@
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1676903,
+            "size": 1621285,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/sodium-fabric-0.7.3+mc1.21.8.jar",
-            "MD5": "57a54742a51ae95bdc47e83f7245a9e2"
+            "MD5": "2e38db8afdf3a8d319658780b7f45501"
           }
         },
         {
-          "id": "rynnavinx.sspb:sspb:5.0.1@jar",
-          "name": "Sodium Shadowy Path Blocks",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 53791,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/sodium-shadowy-path-blocks-fabric-5.0.1.jar",
-            "MD5": "4f644869ae1e16baaa7cde01537443b6"
-          }
-        },
-        {
-          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.8-fabric@jar",
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.6-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1127484,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.8-fabric.jar",
-            "MD5": "ace7c4811f10788361f482bf2b24e22c"
+            "size": 1130373,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.6-fabric.jar",
+            "MD5": "4cb67f8dbd317cc42dcbd9599687286e"
           }
         },
         {
-          "id": "dev.isxander:zoomify:2.15.2+1.21.9@jar",
+          "id": "io.github.yosbr:yosbr:0.1.2@jar",
+          "name": "YOSBR",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17373,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/yosbr-0.1.2.jar",
+            "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.15.2+1.21.6@jar",
           "name": "Zoomify",
           "type": "FabricMod",
           "artifact": {
-            "size": 873244,
-            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/zoomify-2.15.2+1.21.9.jar",
-            "MD5": "4a0558c6256d80ca4585871b0e1b4279"
+            "size": 873073,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/zoomify-2.15.2+1.21.6.jar",
+            "MD5": "ed9d692a384d587db54a645e23e2613b"
           }
         }
       ]
