@@ -33,8 +33,8 @@
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2865,
-                "MD5": "a340a51cb9003f40686faf448b1f6671",
+                "size": 2862,
+                "MD5": "349c7a83f728fba3b823888cd4e9a7a1",
                 "url": "https://terryqq11.github.io/reverberation-launcher-2/repo/versions/1.21.8-fabric-0.19.3/1.21.8-fabric-0.19.3.json"
               }
             },
@@ -103,8 +103,8 @@
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 778652,
-                "MD5": "612031a185c7493cc93e908a875b72cc",
+                "size": 746437,
+                "MD5": "72c38e6c7d436b28b88f9a3a2369619d",
                 "url": "https://terryqq11.github.io/reverberation-launcher-2/repo/lib/net/fabricmc/intermediary/1.21.8/intermediary-1.21.8.jar"
               }
             }
@@ -531,7 +531,7 @@
           }
         },
         {
-          "id": "io.github.yosbr:yosbr:0.1.2@jar",
+          "id": "generated.fabricmod:yosbr:0.1.2@jar",
           "name": "YOSBR",
           "type": "FabricMod",
           "artifact": {
