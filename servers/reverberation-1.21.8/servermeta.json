@@ -1,0 +1,15 @@
+{
+  "$schema": "file:///F:/05.Project/05.Minecraft/03.Reverberation%20client/Server_Data/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Reverberation",
+    "description": "Reverberation Server (Minecraft 1.21.8, Fabric v0.19.3)",
+    "address": "reverberation.mcmc.kr:25565",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}
