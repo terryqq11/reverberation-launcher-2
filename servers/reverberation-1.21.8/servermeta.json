@@ -6,7 +6,7 @@
     "description": "Reverberation Server (Minecraft 1.21.8, Fabric v0.19.3)",
     "address": "reverberation.mcmc.kr:25565",
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false
   },
   "fabric": {
     "version": "0.19.3"

@@ -16,7 +16,7 @@
       "address": "reverberation.mcmc.kr:25565",
       "minecraftVersion": "1.21.8",
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.3",
