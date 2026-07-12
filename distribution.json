@@ -16,7 +16,7 @@
       "address": "reverberation.mcmc.kr:25565",
       "minecraftVersion": "1.21.8",
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.3",
@@ -471,6 +471,16 @@
           }
         },
         {
+          "id": "org.PrinIng:reverberation_client_joiner:0.3.0@jar",
+          "name": "Reverberation_client_joiner",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11297,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/Reverberation_Client_Joiner_1.21.8_1.2.8.jar",
+            "MD5": "7bce52591092ab821589b79a695b9dbe"
+          }
+        },
+        {
           "id": "org.redlance.dima_dencep.mods:rrls:5.1.10+mc1.21.8-fabric@jar",
           "name": "Remove Reloading Screen",
           "type": "FabricMod",
@@ -478,6 +488,16 @@
             "size": 196558,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/rrls-5.1.10+mc1.21.8-fabric.jar",
             "MD5": "a506295b375f9cbaf4d6b9d93f89bef8"
+          }
+        },
+        {
+          "id": "com.github.exopandora:shouldersurfing:4.14.3@jar",
+          "name": "Shoulder Surfing Reloaded",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 240089,
+            "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/ShoulderSurfing-Fabric-1.21.8-4.14.3.jar",
+            "MD5": "0410d4263471fc4bba97be2c2911f86e"
           }
         },
         {
