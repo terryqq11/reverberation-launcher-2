@@ -475,9 +475,9 @@
           "name": "Reverberation_client_joiner",
           "type": "FabricMod",
           "artifact": {
-            "size": 3288802,
+            "size": 3290638,
             "url": "https://terryqq11.github.io/reverberation-launcher-2/servers/reverberation-1.21.8/fabricmods/required/Reverberation_Client_Joiner_1.21.8_1.2.8.jar",
-            "MD5": "461a5e835beb89295edea2136ff7e47d"
+            "MD5": "589a1a34d14c7615b430750ba2cd09fb"
           }
         },
         {
